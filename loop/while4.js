@@ -3,6 +3,12 @@
 
 let num = parseInt(prompt("Insira um número"));
 
-while (num > 0) {
-   
+while (num >= 0) {
+   console.log(num);
+
+    num--;
+
+
 }
+
+console.log("Contagem regressiva finalizada!")
