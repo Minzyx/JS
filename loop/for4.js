@@ -10,7 +10,5 @@ if (!isNaN(num)){
         
     }
 
-}else{
-    console.log ("Fazendo o favor, digite corretamente >:( ")
 }
 
